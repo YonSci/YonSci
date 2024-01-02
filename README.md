@@ -1,5 +1,7 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yonas</h1>
 <h3 align="center">Passionate about working on topics related to data science, machine learning, AI, GIS, remote sensing, climate, and hydrology.</h3>
+<img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonsci&label=Profile%20views&color=0e75b6&style=flat" alt="yonsci" /> </p>
 
