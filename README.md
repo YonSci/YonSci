@@ -1,9 +1,9 @@
 [![MasterHead](https://github.com/YonSci/YonSci/blob/main/images/animated_gif1.gif)](https://github.com/YonSci/YonSci/blob/main/images/animated_gif1.gif)
 
-[![Committers Top Ethiopia Badge](https://user-badge.committers.top/ethiopia/YonSci.svg)](https://committers.top/ethiopia/YonSci)
-
 <h1 align="center">Hi 👋, I'm Yonas</h1>
 <h3 align="center">Passionate about working on topics related to data science, machine learning, AI, GIS, remote sensing, climate, and hydrology.</h3>
+
+[![Committers Top Ethiopia Badge](https://user-badge.committers.top/ethiopia/YonSci.svg)](https://committers.top/ethiopia/YonSci)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yonsci&label=Profile%20views&color=0e75b6&style=flat" alt="yonsci" /> </p>
 
