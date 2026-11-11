@@ -1,4 +1,7 @@
 [![MasterHead](https://github.com/YonSci/YonSci/blob/main/images/animated_gif1.gif)](https://github.com/YonSci/YonSci/blob/main/images/animated_gif1.gif)
+
+[![Committers Top Ethiopia Badge](https://user-badge.committers.top/ethiopia/YonSci.svg)](https://committers.top/ethiopia/YonSci)
+
 <h1 align="center">Hi 👋, I'm Yonas</h1>
 <h3 align="center">Passionate about working on topics related to data science, machine learning, AI, GIS, remote sensing, climate, and hydrology.</h3>
 
@@ -16,7 +19,6 @@
 
 - 📫 How to reach me **yonas.mersha14@gmail.com**
 
-- [![Committers Top Ethiopia Badge](https://user-badge.committers.top/ethiopia/YonSci.svg)](https://committers.top/ethiopia/YonSci)
 
 
 <h3 align="left">Connect with me:</h3>
