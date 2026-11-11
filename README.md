@@ -15,7 +15,8 @@
 - 💬 Ask me about **Data Science, Machine Learning, AI, GIS, Remote Sensing, Climate, and Hydrology**
 
 - 📫 How to reach me **yonas.mersha14@gmail.com**
-- [![committers.top badge](https://user-badge.committers.top/ethiopia/USERNAME.svg)](https://user-badge.committers.top/ethiopia/USERNAME)
+
+- [![Committers Top Ethiopia Badge](https://user-badge.committers.top/ethiopia/YonSci.svg)](https://committers.top/ethiopia/YonSci)
 
 
 <h3 align="left">Connect with me:</h3>
